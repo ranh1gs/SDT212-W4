@@ -1,0 +1,9 @@
+{
+  "instructions": "instructions.md",
+  "task": "task.md",
+  "docs": [
+    {"path": "user.py", "trust": "trusted", "relevant": true}
+  ],
+  "history": {"enabled": false, "path": "history.md"},
+  "memory":  {"enabled": true, "path": "memory.md"}
+}

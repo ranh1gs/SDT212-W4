@@ -1,0 +1,24 @@
+{
+  "instructions": "instructions.md",
+  "task": "task.md",
+  "docs": [
+    {
+      "path": "changelog-style.md",
+      "trust": "trusted",
+      "relevant": true
+    },
+    {
+      "path": "slack-thread.md",
+      "trust": "trusted",
+      "relevant": true
+    }
+  ],
+  "history": {
+    "enabled": false,
+    "path": "history.md"
+  },
+  "memory": {
+    "enabled": false,
+    "path": "memory.md"
+  }
+}

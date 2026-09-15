@@ -1,0 +1,13 @@
+{
+  "instructions": "instructions.md",
+  "task": "task.md",
+  "docs": [
+    {"path": "cache.py",         "trust": "trusted", "relevant": true},
+    {"path": "cache-policy.md",  "trust": "trusted", "relevant": true},
+    {"path": "metrics.md",       "trust": "trusted", "relevant": false},
+    {"path": "queue.md",         "trust": "trusted", "relevant": false},
+    {"path": "onboarding.md",    "trust": "trusted", "relevant": false}
+  ],
+  "history": {"enabled": true, "path": "history.md"},
+  "memory":  {"enabled": true, "path": "memory.md"}
+}

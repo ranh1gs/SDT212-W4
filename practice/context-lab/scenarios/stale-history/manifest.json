@@ -1,0 +1,9 @@
+{
+  "instructions": "instructions.md",
+  "task": "task.md",
+  "docs": [
+    {"path": "config.md", "trust": "trusted", "relevant": true}
+  ],
+  "history": {"enabled": true, "path": "history.md"},
+  "memory":  {"enabled": false, "path": "memory.md"}
+}

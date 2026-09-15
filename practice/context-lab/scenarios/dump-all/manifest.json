@@ -1,0 +1,44 @@
+{
+  "instructions": "instructions.md",
+  "task": "task.md",
+  "docs": [
+    {
+      "path": "retry-policy.md",
+      "trust": "trusted",
+      "relevant": true
+    },
+    {
+      "path": "resilience-standard.md",
+      "trust": "trusted",
+      "relevant": false
+    },
+    {
+      "path": "billing.md",
+      "trust": "trusted",
+      "relevant": false
+    },
+    {
+      "path": "auth-flow.md",
+      "trust": "trusted",
+      "relevant": false
+    },
+    {
+      "path": "changelog.md",
+      "trust": "trusted",
+      "relevant": false
+    },
+    {
+      "path": "db-schema.md",
+      "trust": "trusted",
+      "relevant": false
+    }
+  ],
+  "history": {
+    "enabled": false,
+    "path": "history.md"
+  },
+  "memory": {
+    "enabled": false,
+    "path": "memory.md"
+  }
+}
